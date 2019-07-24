@@ -1,0 +1,23 @@
+{
+  "status": "SUCCESS",
+  "data": {
+    "internalStatus": "Delinquent",
+    "externalStatus": "Authorization prohibited",
+    "pncEasyLock": "on",
+    "currentBalance": 3284.56,
+    "availableCredit": 6715.44,
+    "paymentDueDate": "2019-06-27",
+    "creditLine": 10000,
+    "purchaseAPR": 15.977,
+    "openedDate": "2019-06-27",
+    "expirationDate": "2022-10-27",
+    "lastStatementBalance": 4484.56,
+    "minPaymentDue": 100,
+    "lastStatementDate": "2019-06-27",
+    "nextStatementDate": "2019-07-27",
+    "cashBalance": 300,
+    "cashAvailable": 700,
+    "cashLineAmount": 1000,
+    "cashAPR": 20.9
+  }
+}
