@@ -1,0 +1,23 @@
+{
+    "status":"SUCCESS",
+    "data":{
+        "internalStatus":" ",
+        "externalStatus":" ",
+        "pncEasyLock":false,
+        "currentBalance":354.64,
+        "availableCredit":7145.0,
+        "paymentDueDate":"2019-07-22",
+        "creditLine":7500.0,
+        "purchaseAPR":9.74,
+        "openedDate":"2018-09-21",
+        "expirationDate":"2020-09-01",
+        "lastStatementBalance":75.64,
+        "minPaymentDue":0,
+        "lastStatementDate":"2019-06-26",
+        "nextStatementDate":"2019-07-26",
+        "cashBalance":0.0,
+        "cashAvailable":1875.0,
+        "cashLineAmount":1875.0,
+        "cashAPR":19.74
+    }
+}
